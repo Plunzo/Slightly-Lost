@@ -1,0 +1,17 @@
+[
+  "minecraft:hotbar",
+  "minecraft:op_blocks",
+  "minecraft:building_blocks",
+  "minecraft:colored_blocks",
+  "minecraft:inventory",
+  "minecraft:redstone_blocks",
+  "minecraft:food_and_drinks",
+  "minecraft:search",
+  "minecraft:spawn_eggs",
+  "minecraft:natural_blocks",
+  "minecraft:combat",
+  "minecraft:ingredients",
+  "vanillabackport:vanilla_backport",
+  "minecraft:functional_blocks",
+  "minecraft:tools_and_utilities"
+]

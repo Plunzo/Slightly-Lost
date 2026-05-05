@@ -1,0 +1,71 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+.mixin.out
+.vscode
+eclipse
+saves
+crash-reports
+debug
+local
+modernfix
+mods
+resourcepacks
+screenshots
+schematics
+server-resource-packs
+shaderpacks
+temp
+texturepacks
+cherishedworlds-favorites.dat
+options.txt
+rhino.local.properties
+servers.dat
+servers.dat_old
+usercache.json
+usernamecache.json
+backups
+etched-sounds/
+fancymenu_data
+logs
+emf
+/data
+.qmenu_opened.marker
+/xaero
+emi.json
+icon.png
+panorama.dat
+kubejs/exported
+kubejs/probe
+kubejs/jsconfig.json
+kubejs/README.txt
+config/emi.css
+config/openloader/resources/*
+!config/openloader/resources/99_RaspberryResources
+XaeroWaypoints_*
+
+# Files from Forge MDK
+forge*changelog.txt
+
+# Baisylia's Files
+instance.json
+
+# macOS
+.DS_Store
