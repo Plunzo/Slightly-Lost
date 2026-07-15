@@ -1,10 +1,4 @@
-# eclipse
-bin
-*.launch
-.settings
-.metadata
-.classpath
-.project
+
 
 # idea
 out
@@ -58,14 +52,13 @@ kubejs/jsconfig.json
 kubejs/README.txt
 config/emi.css
 config/openloader/resources/*
-!config/openloader/resources/99_RaspberryResources
 XaeroWaypoints_*
+fieldguide_cache
+dynamic-resource-pack-cache
+dynamic-data-pack-cache
+downloads
 
-# Files from Forge MDK
-forge*changelog.txt
 
-# Baisylia's Files
-instance.json
 
 # macOS
 .DS_Store
