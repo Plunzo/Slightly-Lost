@@ -12,9 +12,16 @@
   "removeItemsFromInfoTabs": true,
   "removeItemsFromTrades": true,
   "removeMobEquipment": true,
-  "enableEmiRemoval": false,
+  "removeCnmChildren": true,
+  "enableEmiRemoval": true,
   "showEmiToast": true,
   "showEmiChatMessages": true,
-  "reloadAfterRemoval": false,
-  "blacklistedItems": []
+  "reloadAfterRemoval": true,
+  "blacklistedItems": [
+    "minecraft:enchanted_books",
+    "minecraft:enchanted_book",
+    "minecraft:enchanting_table",
+    "minecraft:experience_bottle",
+    "minecraft:tipped_arrow"
+  ]
 }

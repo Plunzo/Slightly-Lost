@@ -1,0 +1,14 @@
+{
+  "enableCreativeModeTabs": true,
+  "syncSelectedCreativeModeTab": true,
+  "showCreativeTabNameInSearchbar": true,
+  "disabledCreativeModeTabs": [
+    "minecraft:op_blocks",
+    "vanillabackport:vanilla_backport"
+  ],
+  "enableStackGroups": true,
+  "enableCreateStackGroupButton": true,
+  "disabledStackGroups": [],
+  "stackGroupItemOrder": {},
+  "emiOnlyInRecipeBook": false
+}
